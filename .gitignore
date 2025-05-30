@@ -1,0 +1,11 @@
+# Environment files
+.env
+.env.local
+
+# Dependencies
+node_modules/
+__pycache__/
+venv/
+
+# System files
+.DS_Store
