@@ -38,7 +38,7 @@ CREATE TABLE `posts` (
 
 --
 -- Table structure for table `users`
---
+-- Gerrryyyyyyyy TOPG
 
 DROP TABLE IF EXISTS `users`;
 CREATE TABLE `users` (
